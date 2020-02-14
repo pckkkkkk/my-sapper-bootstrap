@@ -1,4 +1,4 @@
-<header class="masthead mb-auto">
+<header>
 	<p>header</p>
 </header>
 
