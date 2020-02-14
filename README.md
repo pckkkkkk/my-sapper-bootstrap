@@ -1,4 +1,4 @@
-# my-sapper-tailwind-template
+# my-sapper-bootstrap-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
 
@@ -12,7 +12,7 @@ The default [Sapper](https://github.com/sveltejs/sapper) template, available for
 
 ```bash
 # for Rollup
-npx degit "pckkkkkk/my-sapper-tailwind" my-app
+npx degit "pckkkkkk/my-sapper-bootstrap" my-app
 ```
 
 ## Bugs and feedback
