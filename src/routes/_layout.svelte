@@ -2,7 +2,7 @@
 	<p>header</p>
 </header>
 
-<main class="container">
+<main>
 	<slot></slot>
 </main>
 

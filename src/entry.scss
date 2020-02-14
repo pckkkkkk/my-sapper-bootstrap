@@ -1,0 +1,12 @@
+$danger: blue;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body, html, #sapper {
+    height: 100%;
+}
+
+#sapper {
+    display: flex;
+    flex-direction: column;
+}
